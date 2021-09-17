@@ -1,0 +1,1 @@
+web: gunicorn devfood.wsgi --log-file - 
